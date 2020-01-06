@@ -1,0 +1,46 @@
+  body{
+    color: white;
+    background-color: black;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:visited {
+    color:white;
+  }
+
+  a:link {
+    color:white;
+  }
+
+      /* rainbow on hover */
+
+      a:hover .char6{
+        color:#662d91; /* purple */
+      }
+
+      a:hover .char4{
+        color:#00ff00; /* green */
+      }
+
+      a:hover .char5{
+        color:#29abe2; /* blue */
+      }
+
+      a:hover .char2{
+        color:#f7931e; /* orange */
+      }
+
+      a:hover .char3{
+        color:#ffff00; /* yellow */
+      }
+
+      a:hover .char1{
+        color:#ff0000 ; /* red */
+      }
+
+      a:hover .char7{
+        color:#ff9cf8; /* pink */
+      }
